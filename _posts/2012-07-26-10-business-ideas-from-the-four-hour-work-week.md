@@ -7,7 +7,7 @@ comments: true
 categories: [Uncategorized]
 ---
 
-[The Four Hour Work Week](http://fourhourworkweek.com) is a business and productivity book written by Tim Ferriss one of my favorite authors. 
+[The Four Hour Work Week](http://fourhourworkweek.com) is a business and productivity book written by Tim Ferriss, one of my favorite authors. 
 
 This book had changed my life.
 
