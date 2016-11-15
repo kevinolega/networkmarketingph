@@ -140,7 +140,7 @@ Asking the right questions are critically important to you getting what you want
 
 You need to get over your fear of asking and keep asking for better options.
 
-**10. Management by absence.**
+**11. Management by absence.**
 
 Empower your people to make decisions. 
 
