@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Business Ideas Philippines
-email: businessideasph@gmail.com  
+title: Network Marketing Ph
+email: networkmarketingph@gmail.com  
 description: > # this means to ignore newlines until "baseurl:"
-  Business Ideas for the Philippines.
+  Network Marketing for the Philippines.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://businessideasph.com" # the base hostname & protocol for your site
+url: "http://networkmarketingph.com" # the base hostname & protocol for your site
 twitter_username: kevinolega
 github_username:  kevinolega
 permalink: /:title/
