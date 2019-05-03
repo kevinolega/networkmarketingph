@@ -2,4 +2,4 @@
 layout: home
 ---
 
-Turn your ideas into reality today
+Information About Network Marketing In The Philippines
