@@ -1,56 +1,38 @@
-<!-- Footer -->
-<footer> 
-  <div class="container">
-    <div class="row">
-      <div class="col-md-4">
-        <h3><i class="fa fa-map-marker"></i> Contact:</h3>
-        <p class="footer-contact">
-          {{ site.company_name }} <br>
-          Phone: {{ site.telephone_number }} <br>
-          Fax: {{ site.fax_number }} <br>
-          Email: {{ site.company_email }}<br>
-        </p>
-      </div>
-      <div class="col-md-4">
-        <h3><i class="fa fa-external-link"></i> Links</h3>
-        <p><a href="/about"> About ( Who we are )</a></p>
-        <p><a href="/about"> Services ( What we do )</a></p>
-        <p><a href="/contact"> Contact ( Feel free to contact )</a></p>
-        <p><a href="/blog"> Blog ( Write to us )</a></p>
-        <p><a href="/team"> Team ( Meet the Team )</a></p> 
-      </div>
-      <div class="col-md-4">
-        <h3><i class="fa fa-heart"></i> Socialize</h3>
-        <div id="social-icons">
-          {% if site.googleplus_link %}
-            <a href="{{ site.googleplus_link }}" class="btn-group google-plus">
-              <i class="fa fa-google-plus"></i>
-            </a>
-          {% endif %}
-
-          {% if site.linkedin_link %}
-            <a href="{{ site.linkedin_link }}" class="btn-group linkedin">
-              <i class="fa fa-linkedin-square"></i>
-            </a>
-          {% endif %}
-
-          {% if site.facebook_link %}
-            <a href="{{ site.twitter_link }}" class="btn-group twitter">
-              <i class="fa fa-twitter"></i>
-            </a>
-          {% endif %}
-
-          {% if site.facebook_link %}
-            <a href="{{ site.facebook_link }}" class="btn-group facebook">
-              <i class="fa fa-facebook"></i>
-            </a>
-          {% endif %}
+  <footer class="page-footer orange">
+    <div class="container">
+      <div class="row">
+        <div class="col l6 s12">
+          <h5 class="white-text">by Kevin Olega</h5>
+          <p class="grey-text text-lighten-4">I am a junior project manager, virtual assistant and content writer.</p>
         </div>
-      </div>    
+        <div class="col l3 s12">
+          <h5 class="white-text">Services</h5>
+          <ul>
+            <li><a class="white-text" href="https://www.upwork.com/o/profiles/users/_~0173d4ebd3d5f0b659/">Project Management</a></li>
+            <li><a class="white-text" href="http://businessideasph.com/linkedin-email/">Linkedin Marketing</a></li>
+            <li><a class="white-text" href="#!">COMING SOON</a></li>
+            <li><a class="white-text" href="#!">COMING SOON</a></li>
+          </ul>
+        </div>
+        <div class="col l3 s12">
+          <h5 class="white-text">Connect</h5>
+          <ul>
+            <li><a class="white-text" href="mailto:kevinolegaservices@gmail.com">kevinolegaservices@gmail.com</a></li>
+            <li><a class="white-text" href="https://twitter.com/kevinolega">Twitter</a></li>
+            <li><a class="white-text" href="http://kevinolega.com/now">Updates</a></li>
+            <li><a class="white-text" href="http://minimalchanges.com">Blog</a></li>
+          </ul>
+        </div>
+      </div>
     </div>
-  </div>
-
-  <div class="copyright text center">
-    <p>&copy; Copyright {{ site.time | date: '%Y' }}, <a href="#">Your Website Link</a>. <br>Theme ported by <a href="https://melvinchng.github.io/" target="_blank">Melvin Ch'ng</a></p>
-  </div>
+    <div class="footer-copyright">
+        <div class="container">
+            <div>
+                Made by <a target="_blank" class="orange-text text-lighten-3" href="http://materializecss.com">Materialize</a>
+                <span style="text-align: right; float: right">
+                Copyright © 2019 <a href="http://kevinolega.com/now" class="orange-text text-lighten-3">Kevin Olega</a>. Powered by <a target="_blank" href="http://jekyllrb.com/" class="orange-text text-lighten-3">Jekyll</a>
+                </span>
+            </div>
+        </div>
+    </div>
 </footer>

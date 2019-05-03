@@ -17,7 +17,7 @@ Please call 09178952637 for details.
 # Hiring
 
 **Insurance Agent:**
-Insurance agents for a premier insurance company in the Philippines. 
+Insurance agents for a primier insurance company in the Philippines. 
 Location: Metro Manila Only
 Compensation: Commission Only
 Perks: Sales Training. Lead Generation Training. High level financial education. Generous Commission and Travel Incentives.
