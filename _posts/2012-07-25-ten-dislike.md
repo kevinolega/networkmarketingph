@@ -110,7 +110,7 @@ In fact we've been avoiding the word sales. Maybe that's why I built up a somewh
 
 A wake up call happened when I called a prospect asked about what I was selling and when I proceeded with the spiel told me not to waste his time and hung up. If you claim to have a business why don't I have a clear answer on what I'm selling?
 
-### You are  to turn off your brain:
+### You are manipulated to turn off your brain:
 
 #### 8. Creativity is discouraged 
 
