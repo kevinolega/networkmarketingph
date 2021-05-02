@@ -2,6 +2,7 @@
 layout: post
 title: Ten Things I Don’t Like About Network Marketing
 date: 2012-07-25 23:11
+cover: cover.jpg
 author: nmph
 ---
 

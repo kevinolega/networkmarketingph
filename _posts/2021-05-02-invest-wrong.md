@@ -4,6 +4,7 @@ title: I THINK I INVESTED IN AN MLM COMPANY
 date: 2021-05-02 00:44
 Tags: [ uncategorized, blog ]
 permalink: invest-wrong
+cover: cover.jpg
 author: Kevin Olega 
 --- 
 I heard this phrase from several people.

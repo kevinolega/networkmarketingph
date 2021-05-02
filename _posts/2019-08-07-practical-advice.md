@@ -4,6 +4,7 @@ title: Practical Advice
 date: 2019-08-07 11:07
 Tags: [ uncategorized, blog ]
 permalink: /advice/ 
+cover: cover.jpg
 author: Kevin Olega 
 --- 
 Here are some practical advice.

@@ -2,6 +2,7 @@
 layout: post
 title: Allow Quitting in Your Organization
 date: 2012-09-15 23:11
+cover: cover.jpg
 author: nmph
 ---
 

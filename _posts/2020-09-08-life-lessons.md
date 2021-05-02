@@ -4,6 +4,7 @@ title: 30 Life Lessons I Learned in Network Marketing
 date: 2020-09-08 14:17
 Tags: [ uncategorized, blog ]
 permalink: /ll/ 
+cover: cover.jpg
 author: Kevin Olega 
 --- 
 In no particular order.

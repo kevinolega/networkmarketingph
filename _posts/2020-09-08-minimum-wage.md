@@ -4,6 +4,7 @@ title: Minimum Wage Jobs Plus MLM Won't Work
 date: 2020-09-08 14:29
 Tags: [ uncategorized, blog ]
 permalink: /mwage/ 
+cover: cover.jpg
 author: Kevin Olega 
 --- 
 My first few jobs paid way below minimum wage.

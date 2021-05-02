@@ -3,7 +3,8 @@ layout: post
 title: Network marketing is a faster vehicle and not a shortcut.
 date: 2019-08-07 11:04
 Tags: [ uncategorized, blog ]
-permalink: /vehicle-shortcut/ 
+permalink: /vehicle-shortcut/
+cover: cover.jpg 
 author: Kevin Olega 
 --- 
 Faster, unfortunately means you have gained an increased forward mobility often at the cost of crashing more and failing more.
