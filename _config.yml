@@ -1,11 +1,3 @@
-title: Network Marketing Philippines
-author: Kevin Olega
-email: kevinolegaservices@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Information About Network Marketing In The Philippines
-permalink: /:title/
-twitter_username: kevinolega
-github_username:  kevinolega
-
-sass:
-    style: compressed
+name: Flex
+markdown: redcarpet
+pygments: true
