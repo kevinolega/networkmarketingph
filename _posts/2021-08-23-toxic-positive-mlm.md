@@ -4,6 +4,7 @@ title: TOXIC POSITIVITY FROM MLM - (and online influencers)
 date: 2021-08-23 15:22
 Tags: [ stories, strategies, blog ]
 permalink: toxic-postitivity-mlm 
+cover: cover.jpg
 author: Kevin Olega 
 --- 
 TLDR: These guys follow the same formula. 
